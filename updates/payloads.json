@@ -1,11 +1,15 @@
 {
+  "name": "BlackBox Store",
   "minimumVersion": "1.0.8",
   "payloads": [
     {
+      "name": "BlackBox",
       "filename": "blackbox.elf",
-      "version": "v1.0.8",
       "url": "https://github.com/d3athly/blackbox/releases/download/v1.0.8/blackbox.elf",
+      "version": "v1.0.8",
+      "category": "Utilities",
       "checksum": "b78ad32a58aa219c089fb2d809dbdfe84041ae88f7a2890e589ee003ea8d908b"
+      "receiveProtocol": 1
     }
   ]
 }
